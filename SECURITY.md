@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-latest version as of 12/12/22
+latest version as of 27/2/22
 
 | library | Version | Supported         |
 |-------------| ------- | ------------------ |
